@@ -1,6 +1,8 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0969DA,100:38BDF8&height=180&section=header&text=Vikas%20Kashyap&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=60&descSize=17" width="100%"/>
+
 # 👋 Hello, I'm Vikas Kashyap
 
 ### 🚀 Aspiring AI/ML Engineer | Python Developer
@@ -42,8 +44,8 @@ I am passionate about Artificial Intelligence, Machine Learning, Deep Learning a
 |---|---|
 | MCA – AI & ML (2025–2027) | IIMT University, Meerut |
 | BCA (2025) | CCS University |
-| Class 12 | UP Board |
-| Class 10 | UP Board |
+| Class 12 – 77% | UP Board |
+| Class 10 – 82% | UP Board |
 
 ---
 
@@ -93,22 +95,23 @@ I am passionate about Artificial Intelligence, Machine Learning, Deep Learning a
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
+### 🖼️ Technology Icon Collection
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,opencv,sklearn,git,github,linux,vscode,postgres,docker,flask&perline=8"/>
+</div>
+
 ---
 
 ## 🚧 Currently Learning & Working On
-
-<p align="center">
-<img src="https://img.shields.io/badge/LEARNING%20%26%20PRACTICE-0969DA?style=for-the-badge"/>
-</p>
 
 I am continuously expanding my AI/ML skill set by exploring modern frameworks, tools and deployment technologies.
 
 ### 🧠 Machine Learning & Deep Learning Frameworks
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 | Technology | Learning Focus |
@@ -119,10 +122,10 @@ I am continuously expanding my AI/ML skill set by exploring modern frameworks, t
 ### 👁️ Computer Vision, NLP & Generative AI
 
 <p>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-0969DA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-Exploring-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-Exploring-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-Exploring-0969DA?style=for-the-badge"/>
 </p>
 
 | Technology | Learning Focus |
@@ -134,10 +137,10 @@ I am continuously expanding my AI/ML skill set by exploring modern frameworks, t
 ### 🌐 AI Application Development & Deployment
 
 <p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-Learning-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-Learning-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 | Technology | Learning Focus |
@@ -149,8 +152,8 @@ I am continuously expanding my AI/ML skill set by exploring modern frameworks, t
 ### 🗄️ Database, Analytics & Version Control
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Learning-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -164,6 +167,30 @@ I am continuously expanding my AI/ML skill set by exploring modern frameworks, t
 ---
 
 ## 🚀 Featured AI/ML Projects
+
+<div align="center">
+
+<a href="https://github.com/vikas-io">
+<img src="https://img.shields.io/badge/🎬_Movie_Recommendation_System-0969DA?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/vikas-io">
+<img src="https://img.shields.io/badge/📚_Book_Recommendation_System-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/vikas-io">
+<img src="https://img.shields.io/badge/📧_Spam_Email_Classifier-1D4ED8?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/vikas-io">
+<img src="https://img.shields.io/badge/👁️_Face_Recognition_CNN-4338CA?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/vikas-io">
+<img src="https://img.shields.io/badge/📊_WhatsApp_Chat_Analyzer-0369A1?style=for-the-badge"/>
+</a>
+
+</div>
 
 | Project | Description | Technology |
 |---|---|---|
@@ -194,6 +221,10 @@ I am continuously expanding my AI/ML skill set by exploring modern frameworks, t
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-io&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F"/>
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikas-io&theme=github" width="100%"/>
+
 </div>
 
 ---
@@ -213,6 +244,16 @@ I am continuously expanding my AI/ML skill set by exploring modern frameworks, t
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-io&bg_color=FFFFFF&color=0969DA&line=0969DA&point=0969DA&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vikas-io/vikas-io/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
@@ -244,10 +285,13 @@ I am continuously expanding my AI/ML skill set by exploring modern frameworks, t
 
 <div align="center">
 
-### 💙 Thanks for Visiting My Profile!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+Build+Something+Amazing!;Keep+Learning+%7C+Keep+Growing" />
 
-**Keep Learning | Keep Building | Keep Growing**
+<br/>
 
 <img src="https://img.shields.io/badge/AI%20%26%20ML-Future%20Focused-0969DA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Opportunities-2563EB?style=for-the-badge"/>
+
+### 💙 Keep Learning | Keep Building | Keep Growing
 
 </div>
