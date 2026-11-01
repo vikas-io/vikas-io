@@ -1,21 +1,38 @@
 
+<!-- ================================================= -->
+<!-- VIKAS KASHYAP | PREMIUM AI/ML GITHUB PROFILE     -->
+<!-- ================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0969DA,100:38BDF8&height=180&section=header&text=Vikas%20Kashyap&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B49,45:0969DA,100:38BDF8&height=230&section=header&text=Vikas%20Kashyap&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=60&descSize=16" width="100%"/>
+
+<br/>
 
 # 👋 Hello, I'm Vikas Kashyap
 
 ### 🚀 Aspiring AI/ML Engineer | Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Python+Developer+%7C+AI+Enthusiast;Building+Intelligent+Real-World+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Python+Developer+%7C+AI+Enthusiast;Building+Intelligent+Real-World+Solutions;Learning+Today%2C+Building+Tomorrow!" />
 
-<p>
+<br/><br/>
+
 <img src="https://img.shields.io/badge/MCA-AI%20%26%20ML-0969DA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Role-Aspiring%20AI%20Engineer-0078D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Location-India-1565C0?style=for-the-badge"/>
-</p>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=vikas-io&label=PROFILE+VIEWS&color=0969DA&style=for-the-badge" />
+
+<br/><br/>
+
+<a href="#about-me">About</a> •
+<a href="#education">Education</a> •
+<a href="#technical-skills">Skills</a> •
+<a href="#featured-aiml-projects">Projects</a> •
+<a href="#github-statistics">GitHub Stats</a> •
+<a href="#connect-with-me">Contact</a>
 
 </div>
 
@@ -98,7 +115,9 @@ I am passionate about Artificial Intelligence, Machine Learning, Deep Learning a
 ### 🖼️ Technology Icon Collection
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,opencv,sklearn,git,github,linux,vscode,postgres,docker,flask&perline=8"/>
+
 </div>
 
 ---
@@ -200,6 +219,14 @@ I am continuously expanding my AI/ML skill set by exploring modern frameworks, t
 | 👁️ Face Recognition using CNN | Deep learning-based face recognition | Python, CNN |
 | 📊 WhatsApp Chat Analyzer | Chat analysis and visualization | Python, Pandas |
 
+<div align="center">
+
+<a href="https://github.com/vikas-io?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20MY%20PROJECTS-0969DA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
 ## 📚 Currently Exploring
@@ -243,7 +270,7 @@ I am continuously expanding my AI/ML skill set by exploring modern frameworks, t
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-io&bg_color=FFFFFF&color=0969DA&line=0969DA&point=0969DA&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-io&bg_color=FFFFFF&color=0969DA&line=0969DA&point=0969DA&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -283,15 +310,34 @@ I am continuously expanding my AI/ML skill set by exploring modern frameworks, t
 
 ---
 
+## 💡 My Mission
+
+<div align="center">
+
+### "Learning Today, Building Tomorrow!"
+
+**Turning ideas into intelligent solutions with AI & Machine Learning.**
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Future%20Focused-0969DA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Opportunities-2563EB?style=for-the-badge"/>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+Build+Something+Amazing!;Keep+Learning+%7C+Keep+Growing" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Future%20Focused-0969DA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Opportunities-2563EB?style=for-the-badge"/>
-
 ### 💙 Keep Learning | Keep Building | Keep Growing
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B49,45:0969DA,100:38BDF8&height=120&section=footer" width="100%"/>
+
 </div>
+
+<!-- ================================================= -->
+<!-- END OF VIKAS KASHYAP PROFILE README              -->
+<!-- ================================================= -->
