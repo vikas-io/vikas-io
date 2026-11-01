@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Vikas Kashyap 👋
 
-<!--
-**vikas-io/vikas-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI/ML Engineer | MCA Student
 
-Here are some ideas to get you started:
+🎓 MCA in Artificial Intelligence & Machine Learning at IIMT University, Meerut.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about building intelligent solutions using Artificial Intelligence, Machine Learning and Deep Learning.
+
+## 🛠️ Technical Skills
+
+- Python, C, C++, SQL
+- NumPy, Pandas, Matplotlib
+- Machine Learning
+- Deep Learning (ANN, CNN, RNN, Transformers)
+- NLP & Computer Vision
+- TensorFlow
+- Data Analysis & Visualization
+- Linux & MS Excel
+
+## 🚀 My Projects
+
+- Movie Recommendation System
+- Book Recommendation System
+- Spam Email Classifier
+- Face Recognition using CNN
+- WhatsApp Chat Analyzer
+
+## 📚 Currently Learning
+
+- Advanced Deep Learning
+- Generative AI
+- Natural Language Processing
+- Model Deployment
+
+## 📫 Connect With Me
+
+- Email: vs3725725@gmail.com
