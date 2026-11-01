@@ -285,16 +285,6 @@ I am passionate about Artificial Intelligence, Machine Learning, Deep Learning a
 
 </div>
 
-| Learning Goal | Status |
-|---|---|
-| Python Programming Fundamentals | Learning / Practicing |
-| Machine Learning Concepts | Exploring |
-| Deep Learning Fundamentals | Exploring |
-| Advanced ML with Scikit-learn | Upcoming |
-| Deep Learning with PyTorch | Upcoming |
-| Generative AI & LLMs | Upcoming |
-| AI Model Deployment | Upcoming |
-| Real-World AI Applications | Upcoming |
 
 ---
 
