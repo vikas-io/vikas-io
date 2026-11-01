@@ -70,20 +70,34 @@ I am passionate about Artificial Intelligence, Machine Learning, Deep Learning a
 
 <div align="center">
 
-## 🎓 Education
-
-</div>
-
-| Qualification | Institution |
-|---|---|
-| MCA – AI & ML (2025–2027) | IIMT University, Meerut |
-| BCA (2025) | CCS University |
-| Class 12 – 77% | UP Board |
-| Class 10 – 82% | UP Board |
-
----
-
-<div align="center">
+<div align="center">🎓 Education
+Academic background
+</div><table>
+<tr>
+<td align="center" width="25%">
+<b>🎓 MCA – AI & ML</b><br/>
+<sub>2025–2027</sub><br/>
+<b>IIMT University</b><br/>
+<sub>Meerut</sub>
+</td>
+<td align="center" width="25%">
+<b>💻 BCA</b><br/>
+<sub>71%</sub><br/>
+<sub>2025</sub><br/>
+<b>CCS University</b>
+</td>
+<td align="center" width="25%">
+<b>📘 Class 12</b><br/>
+<sub>77%</sub><br/>
+<b>UP Board</b>
+</td>
+<td align="center" width="25%">
+<b>📗 Class 10</b><br/>
+<sub>82%</sub><br/>
+<b>UP Board</b>
+</td>
+</tr>
+</table>
 
 ## 💻 Technical Skills
 
