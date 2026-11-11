@@ -1,12 +1,11 @@
-
 <!-- ====================================================== -->
 <!-- VIKAS KASHYAP | PREMIUM AI/ML ENGINEER PORTFOLIO       -->
-<!-- DARK NAVY + ROYAL BLUE THEME                            -->
+<!-- DARK NAVY + ROYAL BLUE THEME                           -->
 <!-- ====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:0B1F42,70:1646A0,100:2563EB&height=250&section=header&text=Vikas%20Kashyap&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:0B1F42,70:1646A0,100:2563EB&height=250&section=header&text=Vikas%20Kashyap&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=60&descSize=16" width="100%" alt="Vikas Kashyap banner"/>
 
 <br/>
 
@@ -14,7 +13,7 @@
 
 ### 🚀 Aspiring AI/ML Engineer | Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Python+Developer+%7C+AI+Enthusiast;Building+Intelligent+Real-World+Solutions;Learning+Today%2C+Building+Tomorrow!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Python+Developer+%7C+AI+Enthusiast;Building+Intelligent+Real-World+Solutions;Learning+Today%2C+Building+Tomorrow!" alt="Typing animation"/>
 
 <br/><br/>
 
@@ -24,14 +23,16 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vikas-io&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=vikas-io&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile views"/>
 
 <br/><br/>
 
 <a href="#about-me">ABOUT</a> •
 <a href="#education">EDUCATION</a> •
 <a href="#technical-skills">SKILLS</a> •
+<a href="#learning">LEARNING</a> •
 <a href="#featured-aiml-projects">PROJECTS</a> •
+<a href="#roadmap">ROADMAP</a> •
 <a href="#github-statistics">GITHUB STATS</a> •
 <a href="#connect-with-me">CONTACT</a>
 
@@ -45,6 +46,8 @@
 
 ---
 
+<a id="about-me"></a>
+
 <div align="center">
 
 ## 👨‍💻 About Me
@@ -53,26 +56,32 @@
 
 </div>
 
-Hello! I'm **Vikas Kashyap**, an MCA student specializing in Artificial Intelligence and Machine Learning at **IIMT University, Meerut**.
+Hello! I'm **Vikas Kashyap**, an MCA student specializing in **Artificial Intelligence and Machine Learning** at **IIMT University, Meerut**.
 
 I am passionate about Artificial Intelligence, Machine Learning, Deep Learning and developing intelligent real-world applications.
 
-- 🎓 MCA – Artificial Intelligence & Machine Learning
-- 🐍 Python Programming
-- 🤖 Machine Learning & Deep Learning
-- 🧠 ANN, CNN, RNN & Transformers
-- 👁️ Natural Language Processing & Computer Vision
-- 📊 Data Analysis and Visualization
-- 🚀 Interested in building practical AI solutions
-- 🎯 Career Goal: AI/ML Engineer
+| | |
+|---|---|
+| 🎓 **Studying** | MCA – Artificial Intelligence & Machine Learning |
+| 🐍 **Language** | Python Programming |
+| 🤖 **Core Interest** | Machine Learning & Deep Learning |
+| 🧠 **Architectures** | ANN, CNN, RNN & Transformers |
+| 👁️ **Domains** | Natural Language Processing & Computer Vision |
+| 📊 **Data** | Data Analysis and Visualization |
+| 🚀 **Passion** | Building practical AI solutions |
+| 🎯 **Career Goal** | AI/ML Engineer |
 
 ---
 
+<a id="education"></a>
+
 <div align="center">
 
-<div align="center">🎓 Education
-Academic background
-</div><table>
+## 🎓 Education
+
+*Academic background*
+
+<table>
 <tr>
 <td align="center" width="25%">
 <b>🎓 MCA – AI & ML</b><br/>
@@ -99,9 +108,17 @@ Academic background
 </tr>
 </table>
 
+</div>
+
+---
+
+<a id="technical-skills"></a>
+
+<div align="center">
+
 ## 💻 Technical Skills
 
-<text>Technologies and tools I use and explore in programming, AI and data science.</text>
+*Technologies and tools I use and explore in programming, AI and data science.*
 
 </div>
 
@@ -153,11 +170,13 @@ Academic background
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,opencv,sklearn,git,github,linux,vscode,postgres,docker,flask&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,opencv,sklearn,git,github,linux,vscode,postgres,docker,flask&perline=8" alt="Technology icons"/>
 
 </div>
 
 ---
+
+<a id="learning"></a>
 
 <div align="center">
 
@@ -226,45 +245,42 @@ Academic background
 
 ---
 
+<a id="featured-aiml-projects"></a>
+
 <div align="center">
 
 ## 🚀 Featured AI/ML Projects
 
 *Exploring practical applications of Artificial Intelligence and Data Science.*
 
-</div>
-
-<div align="center">
-
 <a href="https://github.com/vikas-io">
 <img src="https://img.shields.io/badge/🎬_Movie_Recommendation_System-0969DA?style=for-the-badge"/>
 </a>
-
 <a href="https://github.com/vikas-io">
 <img src="https://img.shields.io/badge/📚_Book_Recommendation_System-2563EB?style=for-the-badge"/>
 </a>
-
 <a href="https://github.com/vikas-io">
 <img src="https://img.shields.io/badge/📧_Spam_Email_Classifier-1D4ED8?style=for-the-badge"/>
 </a>
-
 <a href="https://github.com/vikas-io">
 <img src="https://img.shields.io/badge/👁️_Face_Recognition_CNN-4338CA?style=for-the-badge"/>
 </a>
-
 <a href="https://github.com/vikas-io">
 <img src="https://img.shields.io/badge/📊_WhatsApp_Chat_Analyzer-0369A1?style=for-the-badge"/>
 </a>
 
 </div>
 
-| Project | Description | Technology |
-|---|---|---|
-| 🎬 Movie Recommendation System | Personalized movie recommendations | Python, ML |
-| 📚 Book Recommendation System | Intelligent book recommendations | Python, ML |
-| 📧 Spam Email Classifier | Email spam detection | Python, ML |
-| 👁️ Face Recognition using CNN | Deep learning-based face recognition | Python, CNN |
-| 📊 WhatsApp Chat Analyzer | Chat analysis and visualization | Python, Pandas |
+<!-- TIP: Replace each "https://github.com/vikas-io" link above and the "View Code" links
+     below with the real repository URL of each project, e.g. https://github.com/vikas-io/movie-recommender -->
+
+| Project | Description | Technology | Code |
+|---|---|---|---|
+| 🎬 **Movie Recommendation System** | Personalized movie recommendations | `Python` `ML` | [View Code](https://github.com/vikas-io) |
+| 📚 **Book Recommendation System** | Intelligent book recommendations | `Python` `ML` | [View Code](https://github.com/vikas-io) |
+| 📧 **Spam Email Classifier** | Email spam detection | `Python` `ML` | [View Code](https://github.com/vikas-io) |
+| 👁️ **Face Recognition using CNN** | Deep learning-based face recognition | `Python` `CNN` | [View Code](https://github.com/vikas-io) |
+| 📊 **WhatsApp Chat Analyzer** | Chat analysis and visualization | `Python` `Pandas` | [View Code](https://github.com/vikas-io) |
 
 <div align="center">
 
@@ -284,23 +300,40 @@ Academic background
 
 </div>
 
-- Advanced Deep Learning
-- Generative AI
-- Large Language Models (LLMs)
-- Transformers Architecture
-- Natural Language Processing
-- AI Model Deployment
+- 🧠 Advanced Deep Learning
+- ✨ Generative AI
+- 💬 Large Language Models (LLMs)
+- 🔁 Transformers Architecture
+- 📝 Natural Language Processing
+- 🚢 AI Model Deployment
 
 ---
+
+<a id="roadmap"></a>
 
 <div align="center">
 
 ## 🎯 AI/ML Career Roadmap
 
+*My step-by-step path towards becoming an AI/ML Engineer.*
+
 </div>
 
+| Stage | Focus | Status |
+|---|---|---|
+| **1. Foundations** | Python, C, C++, SQL, Git & GitHub | ✅ Done |
+| **2. Data Science** | NumPy, Pandas, Matplotlib, Data Analysis & Visualization | ✅ Done |
+| **3. Machine Learning** | Scikit-learn, Model Building & Evaluation | 🔄 In Progress |
+| **4. Deep Learning** | ANN, CNN, RNN with TensorFlow & PyTorch | 🔄 In Progress |
+| **5. NLP, CV & GenAI** | OpenCV, Hugging Face, Transformers, LLMs | 🔄 Exploring |
+| **6. Deployment** | Flask / FastAPI, Streamlit, Docker | 📘 Learning |
+| **7. Career Goal** | AI/ML Engineer — building real-world AI products | 🎯 Target |
+
+<!-- Edit the Status column anytime to match your real progress. -->
 
 ---
+
+<a id="github-statistics"></a>
 
 <div align="center">
 
@@ -310,13 +343,12 @@ Academic background
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vikas-io&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-io&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vikas-io&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-io&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikas-io&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikas-io&theme=tokyonight" width="100%" alt="Profile details"/>
 
 </div>
 
@@ -326,7 +358,7 @@ Academic background
 
 ## 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=vikas-io&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=vikas-io&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 </div>
 
@@ -336,7 +368,7 @@ Academic background
 
 ## 📅 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-io&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-io&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
@@ -352,6 +384,8 @@ Academic background
 
 ---
 
+<a id="connect-with-me"></a>
+
 <div align="center">
 
 ## 📫 Connect With Me
@@ -363,18 +397,21 @@ Academic background
 <a href="mailto:vs3725725@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="tel:+917078124610">
 <img src="https://img.shields.io/badge/Call-7078124610-217346?style=for-the-badge&logo=phone&logoColor=white"/>
 </a>
-
 <a href="https://wa.me/917078124610">
 <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-
 <a href="https://github.com/vikas-io">
 <img src="https://img.shields.io/badge/GitHub-Profile-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<!-- TIP: Add your LinkedIn here:
+<a href="https://www.linkedin.com/in/YOUR-ID">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+-->
 
 </div>
 
@@ -391,7 +428,6 @@ Academic background
 <br/>
 
 <img src="https://img.shields.io/badge/AI%20%26%20ML-Future%20Focused-0B1F42?style=for-the-badge&logo=artificialintelligence&logoColor=38BDF8"/>
-
 <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Opportunities-1646A0?style=for-the-badge&logo=target&logoColor=white"/>
 
 </div>
@@ -400,7 +436,7 @@ Academic background
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Let's+Build+Something+Amazing!;Keep+Learning+%7C+Keep+Growing;See+You+Around+on+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Let's+Build+Something+Amazing!;Keep+Learning+%7C+Keep+Growing;See+You+Around+on+GitHub!" alt="Closing animation"/>
 
 <br/><br/>
 
@@ -410,7 +446,7 @@ Academic background
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:0B1F42,70:1646A0,100:2563EB&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:0B1F42,70:1646A0,100:2563EB&height=130&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
 
