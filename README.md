@@ -317,8 +317,8 @@ I am passionate about Artificial Intelligence, Machine Learning, Deep Learning a
 |---|---|---|
 | **1. Foundations** | Python, C, C++, SQL, Git & GitHub | ✅ Completed |
 | **2. Data Science** | NumPy, Pandas, Matplotlib, Data Analysis & Visualization | ✅ Completed |
-| **3. Machine Learning** | Scikit-learn, Model Building & Evaluation | 🔄 In Progress |
-| **4. Deep Learning** | ANN, CNN, RNN with TensorFlow & PyTorch | 🔄 In Progress |
+| **3. Machine Learning** | Scikit-learn, Model Building & Evaluation | ✅ Completed |
+| **4. Deep Learning** | ANN, CNN, RNN with TensorFlow & PyTorch | ✅ Completed |
 | **5. NLP, CV & GenAI** | OpenCV, Hugging Face, Transformers, LLMs | 🔄 Exploring |
 | **6. Deployment** | Flask / FastAPI, Streamlit, Docker | 📘 Learning |
 | **7. Career Goal** | AI/ML Engineer – building real-world AI products | 🎯 Target |
